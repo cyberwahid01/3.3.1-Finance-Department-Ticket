@@ -4,6 +4,8 @@
 
 <h1>Ticket Resolutions: Finance Department Ticket 🪟</h1>
 This section outlines a hypothetical scenario in which our End-User Karen Doe has submitted a ticket where her team have reported to her that they can't access their online banking portals and my attempt to troubleshoot the problem with her.
+
+(Link Back to Main Project Contents Page is at the Bottom of this Repo)
 <h2>Environments and Technologies Used</h2>
 
 - Lenovo Ideapad 5 Pro 16gb AMD Ryzen 7
@@ -79,3 +81,4 @@ This section outlines a hypothetical scenario in which our End-User Karen Doe ha
 <img src="https://imgur.com/0pLl5cy.png" alt="Image"/>
 </p>
 <p>
+LINK BACK TO THE MAIN PROJECT CONTENTS PAGE - https://github.com/cyberwahid01/Azure-Compute-and-Networking
